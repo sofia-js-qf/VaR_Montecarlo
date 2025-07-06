@@ -5,7 +5,7 @@ The goal is to simulate future price paths for one or more assets using historic
 
 ---
 
-## 🧮 Methods and Tools
+## Methods and Tools
 
 - **Monte Carlo Simulation** to generate future asset price paths.
 - **Geometric Brownian Motion** model as the price evolution assumption.
